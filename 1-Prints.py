@@ -68,12 +68,12 @@ print(lenguage_slice)
 name = '5'
 #funciones
 
-#print(lenguage.capitalize()) #primera letra en mayuscula
-#print(lenguage.upper()) #Todo mayuscula
-#rint(lenguage.count('t')) #cantidad de un tipo
-#print(name.isnumeric()) #Es numerica
-#print(lenguage.lower()) #minusculas
-#print(lenguage.upper().isupper()) #mayuscula y compueba sie s mayuscula
+print(lenguage.capitalize()) #primera letra en mayuscula
+print(lenguage.upper()) #Todo mayuscula
+print(lenguage.count('t')) #cantidad de un tipo
+print(name.isnumeric()) #Es numerica
+print(lenguage.lower()) #minusculas
+print(lenguage.upper().isupper()) #mayuscula y compueba sie s mayuscula
 print(lenguage.startswith("Py")) #revisa como arranca 
 
 
